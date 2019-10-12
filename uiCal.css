@@ -1,0 +1,42 @@
+*{
+
+    background-color: bisque;
+    text-align: center;
+
+    
+}
+
+#HeadStyle
+{
+
+    color: tomato;
+    font-size: 50px;
+    font-weight: bold
+
+}
+
+#ButtonStyle
+{
+
+    font-size: 30px;
+    padding: 30px 50px;
+}
+#ButtonOperator
+{
+
+    font-size: 20px;
+    padding: 20px 20px;
+    
+}
+
+#OutputStyle
+{
+    font-size: 20px;
+    width: 20px;
+    height: 30;
+    border-style: double;
+    text-align: left;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+
+}
